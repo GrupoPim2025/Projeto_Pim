@@ -9,3 +9,7 @@ pip install sqlite3
 ``` bash
 pip install tkinter
 ```
+- Bcrypt - Para criar a encriptação da senha
+``` bash
+pip install bcrypt
+```
